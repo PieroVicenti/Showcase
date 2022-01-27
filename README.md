@@ -1,5 +1,7 @@
 # Showcase
 
+## Visit the page
+
 https://pierovicenti.github.io/Showcase/
 
 ## Purpose of the project
