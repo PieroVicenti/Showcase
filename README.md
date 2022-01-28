@@ -7,7 +7,7 @@ Every picture can be seen once clicked on it
 ![pic2](https://user-images.githubusercontent.com/91989821/151627941-892a3a1d-108b-4c27-bbcd-3d9292ad848a.png)
 
 
-## Visit the page
+## Visit the projct's page
 
 https://pierovicenti.github.io/Showcase/
 
