@@ -16,5 +16,8 @@ https://pierovicenti.github.io/Showcase/
 With this project I simply wanted to test some CSS features as I am developing a website for a photographer.
 In the near future some changes will occur.
 
-## Languages used
+## Programming languagesLanguages used
 JS
+
+## Stylying
+CSS
